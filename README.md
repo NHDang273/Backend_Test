@@ -38,6 +38,9 @@ Project này bao gồm nhiều Task khác nhau, mỗi Task có cấu trúc thư 
     ```bash
     npm run start:dev
     ```
+8. Kết quả:
+   ![ketqua1](./Task1/post-api.jpg)
+   ![ketqua2](./Task1/get-api.jpg)
 
 ### Task 4
 1. Điều hướng vào thư mục `Task4`:
@@ -52,6 +55,8 @@ Project này bao gồm nhiều Task khác nhau, mỗi Task có cấu trúc thư 
     ```bash
     node index.js
     ```
+4. Kết quả:
+![ketqua3](./Task4/task4-res.jpg)
 
 ## 4. Lưu ý
 - Đảm bảo đã cài đặt đầy đủ các package theo đúng thư mục và thứ tự.
